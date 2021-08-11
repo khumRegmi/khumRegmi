@@ -1,6 +1,6 @@
 ![](Images/1billion.jpeg)
 
-- The above picture shows total world population into seven parts, 1 billion each.
+- 1 billions 7 times
 ### Hi there 👋
 
 <!--
