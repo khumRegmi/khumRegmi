@@ -1,4 +1,4 @@
-![] (Images/1billion.jpeg)
+![](Images/1billion.jpeg)
 
 ### Hi there 👋
 
