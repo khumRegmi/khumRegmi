@@ -1,7 +1,8 @@
 ![](Images/1billion.jpeg)
 
-### Hi there 👋
 - The above picture shows total world population into seven parts, 1 billion each.
+### Hi there 👋
+
 <!--
 **khumRegmi/khumRegmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
