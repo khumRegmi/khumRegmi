@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects in front and back end development.
 - 😄 Ask me about how my love towards porgoramming.
 - 📧 How to reach me: khum.regmi2@gmail.com.
-- 🏆 I love watching football, playing soccer and watch suspense thriller and historical films when I have time
+- 🏆 I love watching football, playing soccer and watch suspense thriller and historical films when I have time.
 
