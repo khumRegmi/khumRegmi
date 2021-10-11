@@ -1,5 +1,6 @@
 
-### Hi there, this is Khum Regmi from the top of the world (ps: literally I am from the country of Mt. Everest)
+### Hi there, welcome to my page. (PS: my account is a work in progress)
+    
 
 <!--
 **khumRegmi/khumRegmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
