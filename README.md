@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 - 📧 How to reach me: khum.regmi2@gmail.com.
 
-- 🏆 I love watching football, playing soccer and watch suspense thriller and historical films when I have time.
+- 🏆 I love watching football, playing soccer and watch suspense thriller and historical films.
 
+- 🔆 More about me: khum.algorizin.com
