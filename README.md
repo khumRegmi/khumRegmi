@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 - 🏆 I love watching football, playing soccer and watch suspense thriller and historical films.
 
-- 🔆 More about me: [Portfolio](khum.algorizin.com)
+- 🔆 More about me: [Portfolio](https://khum.algorizin.com/)
 
 
