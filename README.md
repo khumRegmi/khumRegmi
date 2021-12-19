@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
             
-                                                ----------------------------
-                                                 Eisenhower Decision Matrix
+                                            
+                                                _Eisenhower Decision Matrix_
                                                 ----------------------------
                                     |              | Urgent           | Not Urgent       |
                                     |--------------|------------------|------------------| 
