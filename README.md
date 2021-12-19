@@ -25,13 +25,9 @@ Here are some ideas to get you started:
 
 
 _Eisenhower Decision Matrix_
-|             | Urgent        | Not Urgent       |
-|-------------| --------------| -----------------| 
-|Important    |   Do          |  Decide(Schedule |
-|Not Important|  Delegate     |   Delete         |
+|              | Urgent           | Not Urgent       |
+|------------- | --------------   | -----------------| 
+|Important     |   Do             |  Decide(Schedule |
+|Not Important |  Delegate        |   Delete         |
 
-| Name | Email                  |
-| ---- | ---------------------- |
-| Khum | kpr.regmi088@gmail.com |
-| Khum | kpr.regmi088@gmail.com |
 
