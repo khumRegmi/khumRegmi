@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-            _Eisenhower Decision Matrix_
-|              | Urgent           | Not Urgent       |
-|------------- | --------------   | -----------------| 
-|Important     |   **Do**         |  Decide(Schedule)|
-|Not Important |  Delegate        |   ~~Delete~~     |
+                                                _Eisenhower Decision Matrix_
+                                    |              | Urgent           | Not Urgent       |
+                                    |------------- | --------------   | -----------------| 
+                                    |Important     |   **Do**         |  Decide(Schedule)|
+                                    |Not Important |  Delegate        |   ~~Delete~~     |
 
 
 
