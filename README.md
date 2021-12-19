@@ -24,3 +24,9 @@ Here are some ideas to get you started:
 - 🔆 More about me: [Personal website](https://khum.algorizin.com/)
 
 
+_Eisenhower Decision Matrix_
+             | Urgent        | Not Urgent |
+------------- --------------   ----------
+Important       Do            Decide(Schedule
+Not Important   Delegate        Delete
+
