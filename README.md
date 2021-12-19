@@ -30,3 +30,8 @@ _Eisenhower Decision Matrix_
 Important    |   Do          |  Decide(Schedule |
 Not Important|  Delegate     |   Delete         |
 
+| Name | Email                  |
+| ---- | ---------------------- |
+| Khum | kpr.regmi088@gmail.com |
+| Khum | kpr.regmi088@gmail.com |
+
